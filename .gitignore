@@ -1,0 +1,13 @@
+# Rust / Cargo
+/target/
+**/*.rs.bk
+*.pdb
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep release package archives
+!release-package/
